@@ -1,0 +1,9 @@
+/.project
+/.classpath
+/.settings
+/target
+/bin
+/tmp
+/gen
+/build.xml
+/local.properties

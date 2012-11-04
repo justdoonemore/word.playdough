@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Playdough</string>
+    <string name="game_packs_title">Game Packs:</string>
+    <string name="game_pack_player_activity_title">Word Playdough</string>
+    <string name="more">More from Just Do One More</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+
+</resources>
